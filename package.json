@@ -1,0 +1,18 @@
+{
+  "name": "hokoripad",
+  "version": "1.0.0",
+  "description": "HokoriPad ($HOKORIPAD) - Quantum Memecoin Launchpad on Solana",
+  "main": "index.html",
+  "scripts": {
+    "start": "npx serve ."
+  },
+  "keywords": [
+    "solana",
+    "launchpad",
+    "pumpfun",
+    "memecoin",
+    "hokoripad"
+  ],
+  "author": "WerelayAgent",
+  "license": "MIT"
+}

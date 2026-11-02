@@ -1,0 +1,1 @@
+var e=()=>typeof document<`u`&&document.hidden;function t(e){if(typeof document>`u`)return()=>{};let t=()=>{document.hidden||e()};return document.addEventListener(`visibilitychange`,t),()=>document.removeEventListener(`visibilitychange`,t)}function n(n,r){e()||n();let i=setInterval(()=>{e()||n()},r),a=t(n);return()=>{clearInterval(i),a()}}export{e as n,n as r,t};
