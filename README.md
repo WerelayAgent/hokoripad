@@ -7,6 +7,7 @@ HokoriPad is a quantum memecoin launchpad featuring real-time market data, dande
 ## 🚀 Token Information
 - **Ticker**: `$HOKORIPAD`
 - **Platform**: Solana / pump.fun
+- **Website**: [hokoripad.fun](https://hokoripad.fun)
 - **Contract Address**: `HokoPad9mZ6nB8L7vR5t2bN1mP0qK3wY4uE4vR5tpump`
 - **Live Trading**: [pump.fun](https://pump.fun/coin/HokoPad9mZ6nB8L7vR5t2bN1mP0qK3wY4uE4vR5tpump)
 
